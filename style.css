@@ -89,15 +89,28 @@ header{
     justify-content: space-between;
     gap:30px;
  }
+ .home1{
+    margin-top: 100px;
+    width: 70%;
+ }
+
+ .home2{
+    margin-top: 100px;
+ }
  .home-img{
     width: 730px;
-    height:730px;
+    height:549+px;
+    background-color: #ffae00;
+    border-bottom-right-radius: 20px;
+   
 
  }
  .home-img img{
     width: 100%;
     height: 100%;
     object-fit: contain;
+    border-bottom-right-radius: 100%;
+    
  }
  .home-text span{
     padding: 5px 25px;
